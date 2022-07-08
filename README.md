@@ -1,2 +1,3 @@
 # ShcaloEngCorp
-Shcalo Web Application
+
+This is github for Web Application of Shcalo Engineering Group.
